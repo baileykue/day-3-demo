@@ -1,8 +1,16 @@
-// import functions and grab DOM elements
+//console.log('hello world!');
 
-// initialize global state
+//console.log(1 + 1);
 
-// set event listeners 
-  // get user input
-  // use user input to update state 
-  // update DOM to reflect the new state
+//you can only use template literals ${} when you use a backtick
+
+//console.log(4 + Number('4'));
+
+let myList = [1, 2, 3, 4];
+//console.log(myList);
+
+let myOtherList = ['bailey', 'libby', 'court'];
+//console.log(myOtherList);
+//console.log(myOtherList[2]);
+myOtherList[3] = 'josh';
+//console.log(myOtherList);
